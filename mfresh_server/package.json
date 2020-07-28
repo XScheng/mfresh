@@ -1,0 +1,23 @@
+{
+  "name": "mfresh_client",
+  "version": "1.0.0",
+  "description": "my first mfresh project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node ./index.js"
+  },
+  "repository": {
+  },
+  "keywords": [
+  ],
+  "author": "csq86121@126.com",
+  "license": "ISC",
+  "bugs": {
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
